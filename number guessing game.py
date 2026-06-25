@@ -7,7 +7,7 @@ def get_guess(prompt):
         user_input_conditions = [str(user_input) == '', not user_input.isdigit()]
 
         if any(user_input_conditions):       
-            print ('Enter an integer this time.')
+            print ('Enter an integer.')
             continue
         elif int(user_input) < 1 or int(user_input) > 10:
             print ('The number is between 1 and 10.')
