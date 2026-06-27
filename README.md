@@ -1,3 +1,3 @@
 # Number-Guessing-Game
-- A simple Number Guessing Game made in Python3
+- A simple command-line Number Guessing Game made with Python3
 - Uses the __random__ module 
