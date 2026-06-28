@@ -5,7 +5,7 @@ function get_guess(prompt) {
         
         let user_input = readline.question(prompt);
         
-        if (isNaN(user_input) || user_input.includes('.')) {
+        if (isNaN(user_input) || user_input.includes('.') || user_input === '') {
             console.log('Enter an integer.');
             continue;
         }
