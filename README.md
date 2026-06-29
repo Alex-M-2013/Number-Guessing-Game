@@ -1,5 +1,6 @@
 # Number-Guessing-Game
 A collection of simple, command line number guessing games. <br>
+The code could probably be more efficient and optimised but its just for fun 🤷‍♂️ 
 
 The games:
 
