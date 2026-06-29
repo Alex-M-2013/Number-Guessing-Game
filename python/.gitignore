@@ -28,4 +28,3 @@ ENV/
 .coverage
 htmlcov/
 
-*.exe
